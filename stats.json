@@ -1,0 +1,17 @@
+{
+  "last_updated": "2025-09-21 09:49:54.153988",
+  "who": {
+    "source": "https://www.who.int/news-room/fact-sheets/detail/polycystic-ovary-syndrome",
+    "intro": "",
+    "bullets": []
+  },
+  "kenya": {
+    "source": "Kenya source (failed)",
+    "error": "HTTPSConnectionPool(host='erepository.uonbi.ac.ke', port=443): Max retries exceeded with url: /handle/11295/108179 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+  },
+  "global_burden": {
+    "source": "https://www.frontiersin.org/articles/10.3389/fpubh.2025.1514250/full",
+    "summary": ""
+  },
+  "notes": "PCOS is chronic; prevalence varies by diagnostic criteria and region."
+}

@@ -1,0 +1,160 @@
+{
+  "last_updated": "2025-09-21 09:49:49.772076",
+  "articles": [
+    {
+      "pmid": "40960939",
+      "title": "Meta-analysis of the effects of semaglutide on body mass index (BMI) and blood lipid levels in polycystic ovary syndrome patients.",
+      "abstract": "Polycystic ovary syndrome (PCOS) is a common endocrine-metabolic disorder in reproductive-aged women, often associated with obesity and dyslipidemia. Semaglutide, a GLP-1 receptor agonist (GLP-1 RA), improves glycemic control and weight, but its effects on PCOS remain unclear. This meta-analysis evaluates semaglutide's impact on BMI and blood lipids in PCOS patients. We searched PubMed, Embase, Cochrane Library, ClinicalTrials.gov, WHO ICTRP, and gray literature sources for RCTs (2010-2025) comparing semaglutide vs. placebo/conventional treatment in PCOS patients. The outcomes included BMI, total cholesterol (TC), triglycerides (TG), LDL-C, and HDL-C. The data were analyzed using RevMan 5.4, with mean differences (MD) and 95% CIs were calculated. Heterogeneity was assessed via I². Eight RCTs (526 patients) were included. Semaglutide significantly reduced BMI (MD: -2.20 kg/m², 95% CI: -2.42 to -1.97, P < 0.001), TC (MD: -0.42 mmol/L, 95% CI: -0.46 to -0.39, P < 0.0001), TG (MD: -0.35 mmol/L, 95% CI: -0.38 to -0.32, P < 0.0001), and LDL-C (MD: -0.31 mmol/L, 95% CI: -0.35 to -0.27, P < 0.0001), but not HDL-C (P = 0.8524). Subgroup analysis showed greater efficacy at doses ≥ 1.0 mg/week and in patients with a baseline BMI > 28 kg/m². Overall evidence quality was moderate to low based on GRADE assessment. Semaglutide significantly improves BMI and lipid profiles in PCOS, particularly at higher doses, and in obese patients. Further long-term studies are needed to confirm safety and reproductive outcomes.",
+      "authors": [
+        "Wansu Chen",
+        "Dan Xu",
+        "Xueting Shao",
+        "Qingxia Song",
+        "Renshou Chen"
+      ],
+      "pubdate": "2025",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40960939/"
+    },
+    {
+      "pmid": "40900876",
+      "title": "Artificial intelligence for early diagnosis and risk prediction of periodontal-systemic interactions: Clinical utility and future directions.",
+      "abstract": "Artificial intelligence (AI) is transforming healthcare by improving diagnostic accuracy and predictive analytics. Periodontal diseases are recognized as risk factors for systemic conditions, including type 2 diabetes mellitus, cardiovascular disease, Alzheimer's disease, polycystic ovary syndrome, thyroid dysfunction, and post-coronavirus disease 2019 complications. These conditions exhibit complex bidirectional interactions, underscoring the importance of early detection and risk stratification. Current diagnostic tools often fail to capture these interactions at an early stage, limiting timely intervention. This study hypothesizes that AI-driven approaches can significantly improve early diagnosis and risk prediction of periodontal-systemic interactions, enhancing clinical outcomes.\nTo evaluate AI's role in diagnosing and predicting periodontal-systemic interactions in studies from 2010 to 2024.\nThis systematic review followed PRISMA guidelines (2009) and included peer-reviewed articles from PubMed, Scopus, and Embase. Studies with large sample sizes (≥ 500 participants) were selected, focusing on AI models integrating multi-omics data and advanced imaging techniques such as cone beam computed tomography and magnetic resonance imaging. Machine learning models processed structured clinical data, deep learning models combined imaging and clinical data, and natural language processing models extracted insights from clinical notes.\nAI applications significantly enhanced diagnostic and predictive accuracy, reducing diagnostic time by 40% and improving predictive accuracy by 25% in periodontal patients with type 2 diabetes mellitus. Studies with sample sizes of 1000-1500 participants reported diagnostic accuracy improvements up to 92%, with specificity and sensitivity rates of 94% and 90%, respectively. Increasing sample sizes over the years reflected advancements in AI, data collection, and model training, reinforcing model reliability.\nAI's integration of multi-omics",
+      "authors": [
+        "Neelam Das",
+        "Keertana R Gade",
+        "Pavan K Addanki"
+      ],
+      "pubdate": "2025",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40900876/"
+    },
+    {
+      "pmid": "40939152",
+      "title": "Animal models of polycystic ovary syndrome.",
+      "abstract": "Polycystic ovary syndrome (PCOS) has an endocrine pathophysiology that needs immediate clinical attention for effective mitigation, as a significant portion of the reproductive population is affected globally. Current treatment options for PCOS are symptom-specific, and more extensive research is imperative to meet the therapeutic needs of the disease. Besides in vitro studies, the assessment of novel anti-PCOS drugs can be more effectively carried out through in vivo experimentation, for which the choice of appropriate animal models based on parameters and pathways to be evaluated is crucial. For a good preclinical evaluation, the animal model must ensure disease reproducibility and predictive validity. The present review provides insights into the animal models reported in the literature for PCOS studies and the aspects in which various therapeutics under study can be evaluated using these models. These animal models are also classified based on the mode of induction, duration essential for induction, and species. Besides, mammalian, non-mammalian and transgenic models are also included. This review will provide a detailed analysis to the researchers working in the domain of PCOS to facilitate an easy choice of appropriate animal model for their study and to identify the scope of developing newer animal models for PCOS study.",
+      "authors": [
+        "Swanand Kulkarni",
+        "Dnyanesh Dahake",
+        "Khushi Gupta",
+        "Ketan Rathod",
+        "Urmila Aswar",
+        "Suresh Thareja"
+      ],
+      "pubdate": "2025",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40939152/"
+    },
+    {
+      "pmid": "40904035",
+      "title": "The multifaceted effects of semaglutide: exploring its broad therapeutic applications.",
+      "abstract": "Semaglutide, a GLP-1 receptor agonist, is FDA-approved for managing type 2 diabetes (T2D) and reducing cardiovascular risk. Its off-label use in weight management and other conditions has grown, prompting a review of its benefits and risks. This review evaluates evidence on semaglutide's effects, highlighting its therapeutic potential beyond approved indications. Studies from 2021-2024 were reviewed via PubMed, ScienceDirect, and Google Scholar. Semaglutide showed promise in managing PCOS-related obesity, insulin resistance, and demonstrated renoprotective effects in diabetics and chronic kidney disease (CKD). Additionally, it improves liver enzyme levels, steatosis, and stiffness, aiding in managing Nonalcoholic Fatty Liver Disease and Nonalcoholic Steatohepatitis in non-fibrotic patients. The FDA has approved it for reducing major adverse cardiovascular events, heart failure symptoms, and physical limitations in diabetic and non-diabetics. Preclinical studies suggest benefits in cognitive disorders associated with insulin resistance, including Alzheimer's disease, Parkinson's disease, and vascular dementia in animals. Although rare cases of thyroid cancer have been reported, no causal relationship has been established, emphasizing the need of caution in high-risk populations. GLP-1 therapy has also exerted protective effects against the risk of various types of cancer. However, ongoing human studies are essential to validate these findings and clarify semaglutide's association with cancer.\nSemaglutide is a medicine that helps people with type 2 diabetes and can also lower the risk of heart problems. It might also help people with PCOS by making insulin work better and helping them lose weight. It may also protect the kidneys and make the liver healthier.Doctors use semaglutide to help people with heart problems even if they do not have diabetes. In some studies with animals, it has also helped with memory and thinking problems like in Alzheimer’s disease.There is ",
+      "authors": [
+        "Mesk Alkhatib",
+        "Noor Almasri",
+        "Sakhr Alshwayyat",
+        "Hebah Almahariq",
+        "Bara M Hammadeh",
+        "Zaid Taimeh",
+        "Lean Alkhatib",
+        "Anas Alshwayat",
+        "Nesreen A Saadeh",
+        "Mohammed Al-Mahdi Al-Kurdi"
+      ],
+      "pubdate": "2025",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40904035/"
+    },
+    {
+      "pmid": "40857871",
+      "title": "NLRP3 inflammasome activation in PCOS: A novel target for managing insulin resistance and metabolic dysregulation.",
+      "abstract": "In this comprehensive narrative review, we systematically examine the role of the NLRP3 inflammasome in the pathogenesis of polycystic ovary syndrome (PCOS) and evaluate its potential as a therapeutic target for managing insulin resistance. We performed literature searches in PubMed, Scopus, and Web of Science up to April 2025, using keywords including \"PCOS,\" \"NLRP3 inflammasome,\" \"insulin resistance,\" and \"reproductive dysfunction.\" Only peer-reviewed studies directly addressing inflammasome activation in PCOS were included, while articles lacking mechanistic or clinical relevance were excluded. PCOS is a highly prevalent and complex endocrine-metabolic disorder characterized by chronic low-grade inflammation, insulin resistance, and reproductive dysfunction, affecting millions of women globally. Despite its widespread impact, current treatments mainly address symptoms rather than underlying disease mechanisms, highlighting the urgent need for novel, targeted therapeutic approaches. Emerging evidence implicates the NLRP3 inflammasome as a central mediator linking immune activation, metabolic dysregulation, and ovarian pathology in PCOS. Activation of NLRP3 triggers release of IL-1β and IL-18, which impair insulin signaling, disrupt glucose homeostasis, and sustain systemic inflammation. Beyond metabolic effects, NLRP3-driven inflammation contributes to anovulation, follicular atresia, and hormonal imbalance. Interactions with mitochondrial dysfunction and endoplasmic reticulum stress further amplify cellular stress responses, accelerating disease progression. This review synthesizes current mechanistic insights into how NLRP3 activation drives both metabolic and reproductive impairments in PCOS, and highlights emerging therapeutic strategies-including pharmacological inhibitors, anti-inflammatory agents, and precision medicine approaches-aimed at disrupting the inflammatory-insulin resistance cycle. By elucidating these immunometabolic mechanisms, our findings sup",
+      "authors": [
+        "Fatemeh Samadi Nasab",
+        "Hanie Babei",
+        "Mehrnaz Nayebzadeh",
+        "Elahe Sadati",
+        "Ziba Zahiri",
+        "Tayebeh Esfidani",
+        "Shabnam Forouzin",
+        "Atoosa Etezadi"
+      ],
+      "pubdate": "2025",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40857871/"
+    },
+    {
+      "pmid": "40829509",
+      "title": "Exploring the interactions of gut microbiome and metabolites in polycystic ovary syndrome: a review.",
+      "abstract": "Polycystic ovary syndrome (PCOS) is a prevalent endocrine metabolic disorder significantly impacting female health. While its etiology remains incompletely understood, emerging evidence highlights the gut microbiome as a key modulator, affecting not only the gut but also physiology beyond it. Many studies have been committed to exploring the role played by the gut microbiome and have discovered that gut microbiome is commonly dysregulated in PCOS patients. In this review, we offered an introduction to PCOS and summarized the high-quality research in recent years to elucidate the complex interactions between endogenous metabolites with the gut microbiome in PCOS. Furthermore, we also discuss microbiome-targeting therapeutic strategies. By integrating current knowledge on the gut microbiome-metabolite axis, this review aims to provide novel insights and perspectives for future research and potential management of PCOS.",
+      "authors": [
+        "Jueyu Li",
+        "Yuqi Jia",
+        "Haojie Xu",
+        "Hao Bing",
+        "Qixian Ling",
+        "Sihan Wang",
+        "Yanan Wang",
+        "Xianhua Zhang",
+        "Libo Zhao"
+      ],
+      "pubdate": "2025",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40829509/"
+    },
+    {
+      "pmid": "40774222",
+      "title": "Regulation of oxytocin receptor by zinc coumarin derivatives: a mechanistic approach to alleviate anxiety and enhance folliculogenesis in letrozole-induced PCOS in zebrafish model.",
+      "abstract": "Polycystic ovary syndrome (PCOS) is a common endocrine disorder in women, characterized by insulin resistance and mood disturbances. The therapeutic potential of traditional treatments is often limited by side effects, highlighting the need for novel interventions. This study investigated the efficacy of newly synthesized thiosemicarbazone coumarin zinc complexes, TSCO6-Zn (T1) and TSCO13-Zn (T2) were assessed in a letrozole-induced PCOS in-vivo zebrafish model. Synthesis involved Pechmann condensation to form 7-hydroxy-4-methylcoumarin, followed by coordination with zinc. The compounds' targets were predicted via BindingDB, with molecular docking confirming interactions with PCOS-related proteins. In vivo toxicity was assessed in zebrafish embryos exposed to T1 and T2 (up to 150 µM), examining behavioral assays, body weight, lipid profile, GSI (%) and folliculogenesis. In addition to that, HPLC testosterone quantification and qPCR for gene expression analysis were employed for 20β-hsd, cyp19a1a, dennd1a, tox3, oxtr, mTOR, pik3cd, and drd2a. T1 and T2 markedly reduced anxiety, lowered testosterone, and enhanced follicular maturation, with no toxicity observed up to 50 µM. Docking studies demonstrated a high affinity of T1 and T2 for key metabolic and neurobehavioral targets such as drd2a, oxtr, mTOR, and pik3cd. Significant improvements were noted in body weight, lipid profiles, oxidative stress markers, and normalized gene expressions involved in steroidogenesis and metabolic pathways in letrozole-induced PCOS in the zebrafish. T1 and T2 effectively mitigate metabolic and neurobehavioral disturbances associated with PCOS in the zebrafish model, suggesting their potential as comprehensive therapeutic agents. Their multi-target approach could provide a basis for advanced PCOS treatment strategies.",
+      "authors": [
+        "Karthikeyan Ramamurthy",
+        "Sanjay Gopi",
+        "S Madesh",
+        "B Aswinanand",
+        "Preeya Negi",
+        "Jubie Selvaraj",
+        "Mikhlid H Almutairi",
+        "Bader O Almutairi",
+        "S Karthick Raja Namasivayam",
+        "Kathiravan Muthu Kumaradoss",
+        "Jesu Arockiaraj"
+      ],
+      "pubdate": "2025",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40774222/"
+    },
+    {
+      "pmid": "40765483",
+      "title": "The oxylipins profile and their associations with embryo quality of women with polycystic ovary syndrome: a prospective cohort study.",
+      "abstract": "This study was aim to investigate the oxylipins profile in the follicular fluid (FF) of women with PCOS and examine their associations with embryo quality. We conducted a targeted lipidomic study involving sixty-two cases of PCOS and age-matched controls (Cohort 1) via UHPLC-MS. Cohort 2 included sixty cases of PCOS and age-and-BMI-matched controls who were recruited for validation via targeted lipidomics. The associations between these oxylipins and baseline hormones as well as embryo quality in PCOS patients were analyzed. A total of 59 oxylipins were identified in the FF of PCOS patients. In the FF of PCOS patients in Cohort 1, the level of 16(17)-EpDPE, a product derived from docosahexaenoic acid (DHA), was greater than that in the control group, even after adjustment for age, BMI and multiple comparisons (p < 0.001, adjusted p = 0.032). An increased concentration of 16(17)-EpDPE in women with PCOS was further validated in Cohort 2 (p < 0.001, adjusted p = 0.044). In addition, compared with the control group, the PCOS group in Cohort 2 presented significantly lower levels of eicosapentaenoic acid (EPA)-derived oxylipins (18-HEPE), DHA-derived oxylipins (4-HDoHE, 16-HDoHE), linoleic acid(LA)-derived oxylipins (12,13-EpOME, 13-HODE and 9-oxoODE), and dihomo-gamma-linolenic acid(DGLA)-derived oxylipins (15-HETrE). Correlation analyses between oxylipin metabolites and clinical features revealed that 16(17)-EpDPE was negatively associated with the number of D3 good-quality embryos and positively associated the blood lymphocyte count. Three LA-derived oxylipins were associated with the serum AMH and leptin levels in the FF. Our study revealed distinct metabolic signatures in women with PCOS and identified 16(17)-EpDPE as a novel biomarker for PCOS and their D3 good-quality embryos count.",
+      "authors": [
+        "Ye Tian",
+        "Fang Li",
+        "Tuo Kuang",
+        "Xiangning Li",
+        "Xin Zhou",
+        "Xiaohong Bai"
+      ],
+      "pubdate": "2025",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40765483/"
+    },
+    {
+      "pmid": "40739999",
+      "title": "Hsa_circ_0020491 promotes polycystic ovary syndrome by interacting with IGF2BP2 through regulation of granular cell autophagy and mitochondrial dysfunction.",
+      "abstract": "Polycystic ovary syndrome (PCOS) is a prevalent endocrine disorder in women, yet its underlying mechanisms remain incompletely understood. This study investigated the role of hsa_circ_0020491 in PCOS pathogenesis, focusing on granulosa cells (GCs). Analysis of GCs from PCOS patients and controls revealed significant upregulation of both hsa_circ_0020491 and IGF2BP2, with their expression levels positively correlated. In a dihydrotestosterone (DHT)-treated KGN cell model of PCOS, silencing either circ_0020491 or IGF2BP2 mitigated autophagy dysregulation and mitochondrial dysfunction, evidenced by altered autophagy-related proteins, mitochondrial membrane potential, ATP levels, mtDNA content, and reactive oxygen species. Mechanistically, circ_0020491 binds to and stabilizes IGF2BP2, amplifying its effects. Overexpression of IGF2BP2 counteracted the improvements induced by circ_0020491 knockdown. In vivo, a dehydroepiandrosterone (DHEA)-induced PCOS mouse model confirmed that circ_0020491 suppression attenuated disease progression, improved mitochondrial function, and reduced excessive autophagy. These findings demonstrate that hsa_circ_0020491 exacerbates PCOS by interacting with IGF2BP2 to disrupt autophagy and mitochondrial homeostasis in GCs, offering a potential therapeutic target.",
+      "authors": [
+        "XiaLing Huang",
+        "Fen Yu"
+      ],
+      "pubdate": "2025",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40739999/"
+    },
+    {
+      "pmid": "40679349",
+      "title": "The protective role of BMP-15 in infertility development with NLRP3 and IL-18 in infertility development in obese patients with PCOS: clinical and mouse model investigations.",
+      "abstract": "Background: Obesity-related polycystic ovary syndrome (PCOS) is a common endocrine disorder associated with infertility and metabolic dysfunction. While bone morphogenetic protein-15 (BMP-15) plays a recognized role in ovarian function, its specific impact on infertility in obese PCOS patients remains unclear Objective: This study aimed to investigate the influence of BMP-15, NOD-like receptor protein 3 (NLRP3), and interleukin-18 (IL-18) on infertility in this population and to evaluate their predictive clinical value. Methods: Clinical data from 185 obese PCOS patients were retrospectively analyzed. Univariate and logistic regression analyses identified infertility-related factors. Results: Results showed an infertility rate of 34.43%, with significant differences in BMP-15, NLRP3, IL-18, Morisky Medication Adherence Scale (MMAS-8), and Connor-Davidson Resilience Scale (CD-RISC) scores between infertility and non-infertility groups. NLRP3, IL-18, and MMAS-8 emerged as risk factors, while BMP-15 and CD-RISC were protective.In an obese PCOS mouse model, BMP-15 administration improved metabolic parameters, restored hormonal balance, reduced ovarian inflammation, and preserved fertility. Conclusion: These findings suggest that BMP-15 plays a protective role in PCOS-related infertility by modulating metabolic and inflammatory pathways. BMP-15 may serve as a valuable biomarker and therapeutic target for early identification and intervention in obese PCOS patients at risk of infertility.\nBMP-15 is identified for the first time as a predictive factor for infertility in obese patients with PCOS.NLRP3 and IL-18 are independent risk factors for infertility in obese patients with PCOS and play key pathogenic roles.BMP-15 expression and psychological resilience scores are confirmed as protective factors against infertility in PCOS, offering new targets for intervention.Medication adherence significantly affects infertility risk in obese patients with PCOS, underscoring the imp",
+      "authors": [
+        "Qiaohong Guo",
+        "Yongjun Zhou",
+        "Lingli Li",
+        "Xi Chen",
+        "Liang Sun"
+      ],
+      "pubdate": "2025",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/40679349/"
+    }
+  ]
+}
